@@ -16,3 +16,4 @@
  * print_times_table - print times table up to
  **/
 int _putchar(char);
+void print_alphabet(void);
